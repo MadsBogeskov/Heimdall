@@ -269,13 +269,19 @@
 				TargetAttributes = {
 					59B0020D1BE2D1410020EF3D = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = M95U3P5YY5;
+					};
+					8E3830791AFE176A007E4235 = {
+						DevelopmentTeam = M95U3P5YY5;
 					};
 					8E866C531AE8FBEC005682A2 = {
 						CreatedOnToolsVersion = 6.3;
+						DevelopmentTeam = M95U3P5YY5;
 						LastSwiftMigration = 0800;
 					};
 					8E866C5E1AE8FBEC005682A2 = {
 						CreatedOnToolsVersion = 6.3;
+						DevelopmentTeam = M95U3P5YY5;
 						LastSwiftMigration = 0800;
 					};
 				};
@@ -464,7 +470,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos appletvsimulator appletvos";
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 			};
 			name = Debug;
 		};
@@ -482,7 +488,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos appletvsimulator appletvos";
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 			};
 			name = Release;
 		};
